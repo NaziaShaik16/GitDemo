@@ -7,6 +7,7 @@ public class day1 {
 		System.out.println("This is Nazia Shaik..!");
 		System.out.println("This is Farheena Shaik..!");
 		System.out.println("This is Sameena Shaik..!");
+		System.out.println("This Altaf");
 
 	}
 

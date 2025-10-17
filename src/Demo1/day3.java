@@ -9,6 +9,9 @@ public class day3 {
 		int sum=a+b;
 		
 		System.out.println("Sum of  a & b " +sum);
+		System.out.println("This is Shanwaz");
+		System.out.println("This is vinay");
+		System.out.println("This is Phani");
 
 	}
 
